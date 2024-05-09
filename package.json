@@ -15,6 +15,8 @@
     "@supabase/supabase-js": "^2.42.4",
     "@types/express": "^4.17.21",
     "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cheminfo-types": "^1.7.3",
     "cors": "^2.8.5",
     "d3-dsv": "^2.0.0",
     "dotenv": "^16.4.5",

@@ -3,7 +3,7 @@ POST http://localhost:3000/message HTTP/1.1
 content-type: application/json
 
 {
-    "message": "Hello! How are you doing today?"
+    "message": "What is langsmith?"
 }
 
 ###

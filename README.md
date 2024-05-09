@@ -29,5 +29,5 @@ npm start
 
 ### Endpoints:
 
-- **POST /chat*
+- **POST /message*
   - Request body: `{ "message":"Your Message" }`
