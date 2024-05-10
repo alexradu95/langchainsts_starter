@@ -14,7 +14,7 @@ export const chatModel = new ChatOllama({
 });
 
 // Loader configuration
-export const loader = new CheerioWebBaseLoader("https://js.langchain.com/docs/get_started/introduction");
+export const loader = new CheerioWebBaseLoader("https://docs.swan.io/");
 
 // Function to handle the document retrieval process
 export async function createRetrievalProcess(docs: any[], inputMessage: string) {
